@@ -1,0 +1,1 @@
+job: node cleaner.js
